@@ -18,6 +18,10 @@ python3 -m http.server 8080 --bind 127.0.0.1
 
 Open http://127.0.0.1:8080/index.html. Select **Load example** or enter your own labels. Label comparison and arithmetic stay in the browser.
 
+## Mobile demo
+
+<img src="docs/demo-mobile.png" width="390" alt="Mobile browser view with synthetic supplement label inputs">
+
 ## Worked example
 
 200 mg/day calcium from A plus 0.5 g/day from B equals 700 mg/day. This is arithmetic, not a safety threshold.
